@@ -64,6 +64,11 @@ public abstract class BasePage {
 			s.selectByIndex(i);
 		}
 	}
+	public void dropDown(WebElement element, String value) {
+		Select s = new Select(element);
+		s.selectByVisibleText(value);
+	}
+
 
 	/* This method will validate partial text */
 	public static boolean getTextPartialValidate(WebElement element, String value) {
@@ -78,7 +83,7 @@ public abstract class BasePage {
 		return flag;
 
 	}
-
+	
 	/* This is wrapper method to check the web element is displayed on the page */
 	public boolean isElementPresence(WebElement webElement) {
 		return webElement.isEnabled();

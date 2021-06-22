@@ -1,6 +1,5 @@
 commons\TestBase.class
 commons\ExplicitWait$4.class
-pages\LoginPage.class
 commons\ExplicitWait$3.class
 commons\Timeouts.class
 commons\InitializePropertyFile.class

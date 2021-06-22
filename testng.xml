@@ -5,10 +5,10 @@
 <listener class-name="resources.Listeners"/>
 <listener class-name="resources.ExtentReporterNG"/>
 </listeners>
-  <test thread-count="5" name="Test">
+ <test name="all-test">
     <classes>
       <class name="commons.TestBase"/>
-      <class name="LoginTest"/>
+      <class name="JumboCardOrderFlowTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

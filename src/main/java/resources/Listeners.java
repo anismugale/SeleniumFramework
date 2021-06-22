@@ -14,14 +14,11 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 
 import commons.TestBase;
-import pages.LoginPage;
-
-
 
 
 public class Listeners implements ITestListener, IAnnotationTransformer {
 
-	private static final Logger lOGGER = LogManager.getLogger(LoginPage.class.getName());
+	private static final Logger lOGGER = LogManager.getLogger(Listeners.class.getName());
 
 	public void onFinish(ITestContext arg0) {
 		// TODO Auto-generated method stub

@@ -1,0 +1,4 @@
+# Created at 2021-06-22T16:57:53.803
+Boot Manifest-JAR contains absolute paths in classpath 'D:\AppSierra Files\QA_Automation\qa-automation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

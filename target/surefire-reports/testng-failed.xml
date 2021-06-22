@@ -5,16 +5,18 @@
     <listener class-name="resources.Listeners"/>
     <listener class-name="resources.ExtentReporterNG"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)" verbose="0">
+  <test thread-count="5" name="all-test(failed)" verbose="0">
     <classes>
-      <class name="LoginTest">
+      <class name="JumboCardOrderFlowTest">
         <methods>
+          <include name="billingDetails"/>
           <include name="setUp"/>
-          <include name="verifyLoginWithValidCred"/>
-          <include name="tearDown"/>
           <include name="openPage"/>
+          <include name="tearDown"/>
+          <include name="shippingDetails"/>
+          <include name="addProductsToCart"/>
         </methods>
-      </class> <!-- LoginTest -->
+      </class> <!-- JumboCardOrderFlowTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- all-test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

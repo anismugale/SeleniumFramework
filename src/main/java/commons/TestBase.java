@@ -17,22 +17,22 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 
 public class TestBase {
 
 	public WebDriver driver;
 	public static Properties property;
 
-	@BeforeMethod
+	@BeforeClass
 	public void setUp() throws FileNotFoundException, IOException {
 		this.driver = createDriver();
 		setUpWebDriver(driver);
 		InitializePropertyFile.loadPropertyFile();
 	}
 
-	@AfterMethod
+	@AfterClass
 	public void tearDown() {
 		try {
 			if (driver != null) {

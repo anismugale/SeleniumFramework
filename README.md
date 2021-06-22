@@ -17,7 +17,15 @@ Mac, ensure the Driver is executable.
 Specify the Chrome Dri`ver when running the test.
 
 ```shell script
-mvn test -DconfigPath=./env/config.properties -Dwebdriver.chrome.driver=/path/to/chromedriver -DGroups=GroupName
+mvn test -DconfigPath=./env/config.properties -Dwebdriver.chrome.driver=./driver/chromedriver.exe 
 ```
 - To Run on a specific environment. Add a property file under `env` folder. Command to run specific env: `-DconfigPath=./env/{environment_name}.properties`
 - Can group test cases using tag `@Tag(tag-name)`. Command to run a specific group of test cases: `-DGroups=GroupName`
+
+## Reports
+
+•Checkout the test results after execution of tests from the following reports.<br />
+•Following are the reports with their location in the project directory.<br />
+		1.TestSuite.txt  (/target/surefire-reports/TestSuite.txt)<br />
+		2.Extent.html	 (/target/surefire-reports/Extent.html)<br />
+		3.index.html	 (/target/surefire-reports/index.html)<br />
