@@ -1,7 +1,5 @@
 package commons;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Properties;
@@ -26,14 +24,16 @@ public class TestBase {
 	public static Properties property;
 
 	@BeforeClass
-	public void setUp() throws FileNotFoundException, IOException {
+	public void setUp() throws Exception {
 		this.driver = createDriver();
 		setUpWebDriver(driver);
 		InitializePropertyFile.loadPropertyFile();
+		MyScreenRecorder.startRecording("setUp");
 	}
 
 	@AfterClass
-	public void tearDown() {
+	public void tearDown() throws Exception {
+		MyScreenRecorder.stopRecording();
 		try {
 			if (driver != null) {
 				driver.quit();

@@ -20,13 +20,13 @@ public class HomePage extends BasePage {
     @FindBy(xpath = "(//a[contains(text(),'Shop All')])[1]")
     public WebElement shopAll;
     
-    @FindBy(xpath = "(//h2[@class='woocommerce-loop-product__title'])[82]")
+    @FindBy(xpath = "(//h2[@class='woocommerce-loop-product__title'])[84]")
     public WebElement product1;
     
     @FindBy(xpath = "//button[@name='add-to-cart']")
     public WebElement addToCart;
     
-    @FindBy(xpath = "(//h2[@class='woocommerce-loop-product__title'])[157]")
+    @FindBy(xpath = "(//h2[@class='woocommerce-loop-product__title'])[128]")
     public WebElement product2;
     
     @FindBy(xpath = "//a[contains(text(),'View cart')]")

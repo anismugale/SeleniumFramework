@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-22T18:23:41 IST" name="Suite" finished-at="2021-06-22T18:24:55 IST" duration-ms="73475">
+  <suite started-at="2021-06-23T17:36:40 IST" name="Suite" finished-at="2021-06-23T17:38:16 IST" duration-ms="96464">
     <groups>
     </groups>
-    <test started-at="2021-06-22T18:23:41 IST" name="all-test" finished-at="2021-06-22T18:24:55 IST" duration-ms="73475">
+    <test started-at="2021-06-23T17:36:40 IST" name="all-test" finished-at="2021-06-23T17:38:16 IST" duration-ms="96464">
       <class name="JumboCardOrderFlowTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:JumboCardOrderFlowTest@3a0d172f]" started-at="2021-06-22T18:23:41 IST" name="setUp" finished-at="2021-06-22T18:23:45 IST" duration-ms="3446" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:JumboCardOrderFlowTest@5b64c4b7]" started-at="2021-06-23T17:36:40 IST" name="setUp" finished-at="2021-06-23T17:36:50 IST" duration-ms="9878" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="openPage()[pri:0, instance:JumboCardOrderFlowTest@3a0d172f]" started-at="2021-06-22T18:23:45 IST" name="openPage" finished-at="2021-06-22T18:23:51 IST" duration-ms="6319" status="PASS">
+        <test-method is-config="true" signature="openPage()[pri:0, instance:JumboCardOrderFlowTest@5b64c4b7]" started-at="2021-06-23T17:36:50 IST" name="openPage" finished-at="2021-06-23T17:37:01 IST" duration-ms="11219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openPage -->
-        <test-method signature="addProductsToCart()[pri:1, instance:JumboCardOrderFlowTest@3a0d172f]" started-at="2021-06-22T18:23:51 IST" name="addProductsToCart" finished-at="2021-06-22T18:24:37 IST" duration-ms="45766" status="PASS">
+        <test-method signature="addProductsToCart()[pri:1, instance:JumboCardOrderFlowTest@5b64c4b7]" started-at="2021-06-23T17:37:01 IST" name="addProductsToCart" finished-at="2021-06-23T17:37:49 IST" duration-ms="48414" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addProductsToCart -->
-        <test-method signature="billingDetails()[pri:2, instance:JumboCardOrderFlowTest@3a0d172f]" started-at="2021-06-22T18:24:37 IST" name="billingDetails" finished-at="2021-06-22T18:24:44 IST" duration-ms="6530" status="PASS">
+        <test-method signature="billingDetails()[pri:2, instance:JumboCardOrderFlowTest@5b64c4b7]" started-at="2021-06-23T17:37:49 IST" name="billingDetails" finished-at="2021-06-23T17:38:00 IST" duration-ms="10188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- billingDetails -->
-        <test-method signature="shippingDetails()[pri:3, instance:JumboCardOrderFlowTest@3a0d172f]" started-at="2021-06-22T18:24:44 IST" name="shippingDetails" finished-at="2021-06-22T18:24:54 IST" duration-ms="10547" status="PASS">
+        <test-method signature="shippingDetails()[pri:3, instance:JumboCardOrderFlowTest@5b64c4b7]" started-at="2021-06-23T17:38:00 IST" name="shippingDetails" finished-at="2021-06-23T17:38:15 IST" duration-ms="15321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shippingDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:JumboCardOrderFlowTest@3a0d172f]" started-at="2021-06-22T18:24:54 IST" name="tearDown" finished-at="2021-06-22T18:24:55 IST" duration-ms="838" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:JumboCardOrderFlowTest@5b64c4b7]" started-at="2021-06-23T17:38:15 IST" name="tearDown" finished-at="2021-06-23T17:38:16 IST" duration-ms="1401" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

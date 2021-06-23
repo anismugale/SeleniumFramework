@@ -1,7 +1,10 @@
 commons\TestBase.class
 commons\ExplicitWait$4.class
+pages\ShippingDetails.class
 commons\ExplicitWait$3.class
 commons\Timeouts.class
+pages\HomePage.class
+pages\BillingDetails.class
 commons\InitializePropertyFile.class
 commons\Configuration.class
 commons\GenericHelper.class
@@ -11,4 +14,5 @@ commons\BasePage.class
 commons\ExplicitWait.class
 commons\JavaScriptHelper.class
 commons\ExplicitWait$1.class
+commons\MyScreenRecorder.class
 commons\ExplicitWait$2.class

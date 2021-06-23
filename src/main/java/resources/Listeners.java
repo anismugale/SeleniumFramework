@@ -3,6 +3,7 @@ package resources;
 import java.io.File;
 import java.io.FileOutputStream;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.OutputType;
@@ -12,6 +13,8 @@ import org.testng.IAnnotationTransformer;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+
+import com.relevantcodes.extentreports.LogStatus;
 
 import commons.TestBase;
 

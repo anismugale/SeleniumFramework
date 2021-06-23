@@ -60,7 +60,7 @@ public class ExtentReporterNG implements IReporter {
 				}
 				String screenshotPath = System.getProperty("user.dir") + File.separator + "screenshots" + File.separator
 						+ result.getMethod().getMethodName() + ".jpg";
-				test.log(LogStatus.FAIL, test.addScreenCapture(screenshotPath));
+				test.log(LogStatus.FAIL, test.addBase64ScreenShot(screenshotPath));
 				extent.endTest(test);
 			}
 		}
