@@ -1,386 +1,302 @@
-[INFO ] 2021-06-23 17:37:01.495 [main] Listeners - *******************JumboCardOrderFlowTest.addProductsToCart started*******************
-[DEBUG] 2021-06-23 17:37:01.937 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:02.002 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:02.168 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:02.177 [main] HomePage - Wait Till Clicks Close Modal
-[INFO ] 2021-06-23 17:37:02.588 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //div[@class='mc-closeModal']]
-[INFO ] 2021-06-23 17:37:02.615 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //div[@class='mc-closeModal']]
-[INFO ] 2021-06-23 17:37:03.142 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //div[@class='mc-closeModal']]
-[DEBUG] 2021-06-23 17:37:03.522 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:03.522 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:03.540 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:03.552 [main] HomePage - Wait Till Clicks Shop All
-[INFO ] 2021-06-23 17:37:03.577 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
-[INFO ] 2021-06-23 17:37:03.616 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
-[INFO ] 2021-06-23 17:37:03.711 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
-[DEBUG] 2021-06-23 17:37:13.136 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:13.137 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:13.159 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:13.180 [main] HomePage - Wait Till Clicks Product 1
-[INFO ] 2021-06-23 17:37:13.207 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[84]]
-[INFO ] 2021-06-23 17:37:13.223 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[84]]
-[INFO ] 2021-06-23 17:37:13.331 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[84]]
-[DEBUG] 2021-06-23 17:37:19.152 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:19.153 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:19.169 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:19.189 [main] HomePage - Wait Till Clicks Add To Cart
-[INFO ] 2021-06-23 17:37:19.216 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //button[@name='add-to-cart']]
-[INFO ] 2021-06-23 17:37:19.246 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //button[@name='add-to-cart']]
-[INFO ] 2021-06-23 17:37:19.351 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //button[@name='add-to-cart']]
-[DEBUG] 2021-06-23 17:37:24.328 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:24.328 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.399 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.467 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.541 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.623 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.700 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.783 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.860 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.923 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:24.988 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:25.052 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:25.114 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:25.177 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:25.254 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:25.321 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:25.328 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:25.345 [main] HomePage - Wait Till Clicks Shop All
-[INFO ] 2021-06-23 17:37:25.367 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
-[INFO ] 2021-06-23 17:37:25.380 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
-[INFO ] 2021-06-23 17:37:25.453 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
-[DEBUG] 2021-06-23 17:37:30.908 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:30.908 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:30.922 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:30.951 [main] HomePage - Wait Till Clicks Product 2
-[INFO ] 2021-06-23 17:37:30.991 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[128]]
-[INFO ] 2021-06-23 17:37:31.006 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[128]]
-[INFO ] 2021-06-23 17:37:31.125 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[128]]
-[DEBUG] 2021-06-23 17:37:35.110 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:35.110 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:35.121 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:35.135 [main] HomePage - Wait Till Clicks Add To Cart
-[INFO ] 2021-06-23 17:37:35.157 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //button[@name='add-to-cart']]
-[INFO ] 2021-06-23 17:37:35.174 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //button[@name='add-to-cart']]
-[INFO ] 2021-06-23 17:37:35.281 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //button[@name='add-to-cart']]
-[DEBUG] 2021-06-23 17:37:38.580 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:38.580 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:38.649 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:38.724 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:38.798 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:38.874 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:38.939 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.006 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.078 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.144 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.209 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.273 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.339 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.404 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.482 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.559 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.622 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.689 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:39.708 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:39.717 [main] HomePage - Wait Till Clicks View Cart
-[INFO ] 2021-06-23 17:37:39.738 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //a[contains(text(),'View cart')]]
-[INFO ] 2021-06-23 17:37:39.754 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //a[contains(text(),'View cart')]]
-[INFO ] 2021-06-23 17:37:39.851 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //a[contains(text(),'View cart')]]
-[DEBUG] 2021-06-23 17:37:44.240 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:44.240 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:44.250 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:44.264 [main] HomePage - Wait Till Clicks Checkout
-[INFO ] 2021-06-23 17:37:44.312 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //a[contains(text(),'Proceed to checkout')]]
-[INFO ] 2021-06-23 17:37:44.326 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //a[contains(text(),'Proceed to checkout')]]
-[INFO ] 2021-06-23 17:37:44.454 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //a[contains(text(),'Proceed to checkout')]]
-[INFO ] 2021-06-23 17:37:49.883 [main] Listeners - *******************JumboCardOrderFlowTest.addProductsToCart passed*******************
-[INFO ] 2021-06-23 17:37:49.891 [main] Listeners - *******************JumboCardOrderFlowTest.billingDetails started*******************
-[DEBUG] 2021-06-23 17:37:49.953 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:49.953 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.032 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.140 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.216 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.290 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.352 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.423 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.523 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.591 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.665 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.729 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.793 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.874 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:50.944 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.011 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.085 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.160 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.222 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.286 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.303 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:51.316 [main] BillingDetails - Wait Till Enters First Name
-[INFO ] 2021-06-23 17:37:51.336 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_first_name]
-[INFO ] 2021-06-23 17:37:51.352 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_first_name]
-[INFO ] 2021-06-23 17:37:51.430 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_first_name]
-[DEBUG] 2021-06-23 17:37:51.803 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:51.808 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:51.820 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:51.835 [main] BillingDetails - Wait Till Enters Last Name
-[INFO ] 2021-06-23 17:37:51.855 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_last_name]
-[INFO ] 2021-06-23 17:37:51.865 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_last_name]
-[INFO ] 2021-06-23 17:37:51.968 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_last_name]
-[DEBUG] 2021-06-23 17:37:52.257 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:52.257 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:52.267 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:52.290 [main] BillingDetails - Wait Till Selects India
-[INFO ] 2021-06-23 17:37:52.315 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //select[@id='billing_country']]
-[INFO ] 2021-06-23 17:37:52.336 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> xpath: //select[@id='billing_country']]
-[DEBUG] 2021-06-23 17:37:52.651 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:52.651 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:52.713 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:52.797 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:52.864 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:52.940 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.016 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.082 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.158 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.222 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.290 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.366 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.434 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.510 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.574 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.640 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.702 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.776 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.840 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.914 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:53.977 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.041 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.104 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.178 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.254 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.330 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.393 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.475 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.491 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:54.505 [main] BillingDetails - Wait Till Enters Street Name
-[INFO ] 2021-06-23 17:37:54.527 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_address_1]
-[INFO ] 2021-06-23 17:37:54.544 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_address_1]
-[INFO ] 2021-06-23 17:37:54.631 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_address_1]
-[DEBUG] 2021-06-23 17:37:54.962 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:54.962 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:54.971 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:54.989 [main] BillingDetails - Wait Till Enters Suite Name
-[INFO ] 2021-06-23 17:37:55.017 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_address_2]
-[INFO ] 2021-06-23 17:37:55.029 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_address_2]
-[INFO ] 2021-06-23 17:37:55.105 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_address_2]
-[DEBUG] 2021-06-23 17:37:55.498 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:55.499 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:55.520 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:55.537 [main] BillingDetails - Wait Till Enters City Name
-[INFO ] 2021-06-23 17:37:55.582 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_city]
-[INFO ] 2021-06-23 17:37:55.608 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_city]
-[INFO ] 2021-06-23 17:37:55.718 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_city]
-[DEBUG] 2021-06-23 17:37:56.015 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:56.015 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:56.028 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:56.051 [main] BillingDetails - Wait Till Enters State Name
-[INFO ] 2021-06-23 17:37:56.064 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_state]
-[INFO ] 2021-06-23 17:37:56.078 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_state]
-[DEBUG] 2021-06-23 17:37:56.309 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:56.309 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:56.322 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:56.343 [main] BillingDetails - Wait Till Enters Postcode
-[INFO ] 2021-06-23 17:37:56.372 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_postcode]
-[INFO ] 2021-06-23 17:37:56.396 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_postcode]
-[INFO ] 2021-06-23 17:37:56.490 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_postcode]
-[DEBUG] 2021-06-23 17:37:56.773 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:56.773 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:56.788 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:56.802 [main] BillingDetails - Wait Till Enters Phone Number
-[INFO ] 2021-06-23 17:37:56.818 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_phone]
-[INFO ] 2021-06-23 17:37:56.835 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_phone]
-[INFO ] 2021-06-23 17:37:56.932 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_phone]
-[DEBUG] 2021-06-23 17:37:57.251 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:37:57.251 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.314 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.379 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.444 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.509 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.572 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.652 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.726 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.789 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.859 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.929 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:57.999 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.063 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.128 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.192 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.257 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.319 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.382 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.448 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.513 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.575 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.640 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.703 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.768 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.832 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.899 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:58.963 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.026 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.091 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.159 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.225 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.302 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.381 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.457 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.528 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.591 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:37:59.606 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:37:59.621 [main] BillingDetails - Wait Till Enters Email
-[INFO ] 2021-06-23 17:37:59.644 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_email]
-[INFO ] 2021-06-23 17:37:59.670 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_email]
-[INFO ] 2021-06-23 17:37:59.756 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: billing_email]
-[INFO ] 2021-06-23 17:38:00.079 [main] Listeners - *******************JumboCardOrderFlowTest.billingDetails passed*******************
-[INFO ] 2021-06-23 17:38:00.079 [main] Listeners - *******************JumboCardOrderFlowTest.shippingDetails started*******************
-[DEBUG] 2021-06-23 17:38:00.108 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:00.108 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:00.117 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:00.132 [main] ShippingDetails - Wait Till Enters First Name
-[INFO ] 2021-06-23 17:38:00.151 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_first_name]
-[INFO ] 2021-06-23 17:38:00.166 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_first_name]
-[INFO ] 2021-06-23 17:38:00.254 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_first_name]
-[DEBUG] 2021-06-23 17:38:00.543 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:00.543 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:00.563 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:00.580 [main] ShippingDetails - Wait Till Enters Last Name
-[INFO ] 2021-06-23 17:38:00.597 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_last_name]
-[INFO ] 2021-06-23 17:38:00.616 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_last_name]
-[INFO ] 2021-06-23 17:38:00.712 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_last_name]
-[DEBUG] 2021-06-23 17:38:01.004 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:01.004 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.012 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:01.025 [main] ShippingDetails - Wait Till Selects India
-[INFO ] 2021-06-23 17:38:01.051 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_country]
-[INFO ] 2021-06-23 17:38:01.078 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_country]
-[DEBUG] 2021-06-23 17:38:01.342 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:01.343 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.411 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.476 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.552 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.617 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.693 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.754 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.816 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.878 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:01.938 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.003 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.073 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.146 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.218 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.283 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.352 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.420 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.483 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.548 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.611 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.683 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.759 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.834 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.896 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:02.955 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.023 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.103 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.178 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.249 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.311 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.375 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.442 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.526 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.590 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.658 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.728 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.790 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.852 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.915 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:03.995 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:04.067 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:04.143 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:04.163 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:04.178 [main] ShippingDetails - Wait Till Enters Street Name
-[INFO ] 2021-06-23 17:38:04.199 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_address_1]
-[INFO ] 2021-06-23 17:38:04.209 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_address_1]
-[INFO ] 2021-06-23 17:38:04.285 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_address_1]
-[DEBUG] 2021-06-23 17:38:04.598 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:04.598 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:04.606 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:04.619 [main] ShippingDetails - Wait Till Enters Suite Name
-[INFO ] 2021-06-23 17:38:04.646 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_address_2]
-[INFO ] 2021-06-23 17:38:04.658 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_address_2]
-[INFO ] 2021-06-23 17:38:04.758 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_address_2]
-[DEBUG] 2021-06-23 17:38:05.104 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:05.104 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:05.122 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:05.137 [main] ShippingDetails - Wait Till Enters City Name
-[INFO ] 2021-06-23 17:38:05.162 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_city]
-[INFO ] 2021-06-23 17:38:05.171 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_city]
-[INFO ] 2021-06-23 17:38:05.254 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_city]
-[DEBUG] 2021-06-23 17:38:05.563 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:05.564 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:05.585 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:05.598 [main] ShippingDetails - Wait Till Enters State Name
-[INFO ] 2021-06-23 17:38:05.624 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_state]
-[INFO ] 2021-06-23 17:38:05.638 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_state]
-[DEBUG] 2021-06-23 17:38:05.865 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:05.865 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:05.880 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:05.898 [main] ShippingDetails - Wait Till Enters Postcode
-[INFO ] 2021-06-23 17:38:05.925 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_postcode]
-[INFO ] 2021-06-23 17:38:05.941 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_postcode]
-[INFO ] 2021-06-23 17:38:06.017 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_postcode]
-[DEBUG] 2021-06-23 17:38:06.287 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:06.287 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:06.305 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:06.320 [main] ShippingDetails - Wait Till Enters Phone Number
-[INFO ] 2021-06-23 17:38:06.342 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_phone]
-[INFO ] 2021-06-23 17:38:06.354 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_phone]
-[INFO ] 2021-06-23 17:38:06.457 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: shipping_phone]
-[DEBUG] 2021-06-23 17:38:06.767 [main] ExplicitWait - Waiting for the document to load
-[INFO ] 2021-06-23 17:38:06.768 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:06.846 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:06.925 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.000 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.062 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.124 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.194 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.271 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.332 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.398 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.474 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.554 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.620 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.682 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.752 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.827 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.893 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:07.968 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.033 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.095 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.158 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.228 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.298 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.363 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.434 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.513 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.586 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.650 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.713 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.788 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.853 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:08.938 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:09.011 [main] JavaScriptHelper - return jQuery.active
-[INFO ] 2021-06-23 17:38:09.017 [main] JavaScriptHelper - return document.readyState
-[INFO ] 2021-06-23 17:38:09.031 [main] ShippingDetails - Wait Till Enters Place Order
-[INFO ] 2021-06-23 17:38:09.051 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: place_order]
-[INFO ] 2021-06-23 17:38:09.077 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (98808e47b4ef0ee5855a7e3fccf6981d)] -> id: place_order]
-[INFO ] 2021-06-23 17:38:09.168 [main] 
+[DEBUG] 2021-06-24 19:54:04.557 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:04.605 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:04.629 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:04.648 [main] HomePage - Wait Till Clicks Close Modal
+[INFO ] 2021-06-24 19:54:04.672 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //div[@class='mc-closeModal']]
+[INFO ] 2021-06-24 19:54:04.682 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //div[@class='mc-closeModal']]
+[INFO ] 2021-06-24 19:54:04.791 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //div[@class='mc-closeModal']]
+[DEBUG] 2021-06-24 19:54:04.917 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:04.917 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:04.925 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:04.940 [main] HomePage - Wait Till Clicks Shop All
+[INFO ] 2021-06-24 19:54:04.962 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
+[INFO ] 2021-06-24 19:54:04.976 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
+[INFO ] 2021-06-24 19:54:05.053 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
+[DEBUG] 2021-06-24 19:54:14.145 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:14.145 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:14.159 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:14.170 [main] HomePage - Wait Till Clicks Product 1
+[INFO ] 2021-06-24 19:54:14.192 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[84]]
+[INFO ] 2021-06-24 19:54:14.208 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[84]]
+[INFO ] 2021-06-24 19:54:14.284 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[84]]
+[DEBUG] 2021-06-24 19:54:19.617 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:19.617 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:19.628 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:19.641 [main] HomePage - Wait Till Clicks Add To Cart
+[INFO ] 2021-06-24 19:54:19.664 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //button[@name='add-to-cart']]
+[INFO ] 2021-06-24 19:54:19.676 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //button[@name='add-to-cart']]
+[INFO ] 2021-06-24 19:54:19.755 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //button[@name='add-to-cart']]
+[DEBUG] 2021-06-24 19:54:22.029 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:22.030 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.099 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.160 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.222 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.284 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.347 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.408 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.470 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.532 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.594 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.657 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.719 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.781 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.844 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.923 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.984 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:22.991 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:23.005 [main] HomePage - Wait Till Clicks Shop All
+[INFO ] 2021-06-24 19:54:23.024 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
+[INFO ] 2021-06-24 19:54:23.038 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
+[INFO ] 2021-06-24 19:54:23.116 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//a[contains(text(),'Shop All')])[1]]
+[DEBUG] 2021-06-24 19:54:26.196 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:26.197 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:26.226 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:26.239 [main] HomePage - Wait Till Clicks Product 2
+[INFO ] 2021-06-24 19:54:26.260 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[128]]
+[INFO ] 2021-06-24 19:54:26.272 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[128]]
+[INFO ] 2021-06-24 19:54:26.348 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: (//h2[@class='woocommerce-loop-product__title'])[128]]
+[DEBUG] 2021-06-24 19:54:28.667 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:28.667 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:28.676 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:28.685 [main] HomePage - Wait Till Clicks Add To Cart
+[INFO ] 2021-06-24 19:54:28.707 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //button[@name='add-to-cart']]
+[INFO ] 2021-06-24 19:54:28.724 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //button[@name='add-to-cart']]
+[INFO ] 2021-06-24 19:54:28.797 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //button[@name='add-to-cart']]
+[DEBUG] 2021-06-24 19:54:31.038 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:31.038 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.114 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.185 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.247 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.311 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.385 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.447 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.508 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.570 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.633 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.696 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.757 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.820 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.881 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.943 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:31.952 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:31.966 [main] HomePage - Wait Till Clicks View Cart
+[INFO ] 2021-06-24 19:54:31.987 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //a[contains(text(),'View cart')]]
+[INFO ] 2021-06-24 19:54:32.000 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //a[contains(text(),'View cart')]]
+[INFO ] 2021-06-24 19:54:32.079 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //a[contains(text(),'View cart')]]
+[DEBUG] 2021-06-24 19:54:35.696 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:35.696 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:35.711 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:35.721 [main] HomePage - Wait Till Clicks Checkout
+[INFO ] 2021-06-24 19:54:35.746 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //a[contains(text(),'Proceed to checkout')]]
+[INFO ] 2021-06-24 19:54:35.755 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //a[contains(text(),'Proceed to checkout')]]
+[INFO ] 2021-06-24 19:54:35.832 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //a[contains(text(),'Proceed to checkout')]]
+[DEBUG] 2021-06-24 19:54:40.139 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:40.139 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.211 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.279 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.353 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.428 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.489 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.552 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.615 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.676 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.739 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.800 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.863 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.925 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:40.989 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.052 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.112 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.173 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.235 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.297 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.374 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.451 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.470 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:41.485 [main] BillingDetails - Wait Till Enters First Name
+[INFO ] 2021-06-24 19:54:41.506 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_first_name]
+[INFO ] 2021-06-24 19:54:41.519 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_first_name]
+[INFO ] 2021-06-24 19:54:41.600 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_first_name]
+[DEBUG] 2021-06-24 19:54:41.959 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:41.959 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:41.967 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:41.985 [main] BillingDetails - Wait Till Enters Last Name
+[INFO ] 2021-06-24 19:54:42.002 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_last_name]
+[INFO ] 2021-06-24 19:54:42.016 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_last_name]
+[INFO ] 2021-06-24 19:54:42.093 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_last_name]
+[DEBUG] 2021-06-24 19:54:42.316 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:42.316 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.323 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:42.339 [main] BillingDetails - Wait Till Selects India
+[INFO ] 2021-06-24 19:54:42.361 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //select[@id='billing_country']]
+[INFO ] 2021-06-24 19:54:42.372 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> xpath: //select[@id='billing_country']]
+[DEBUG] 2021-06-24 19:54:42.597 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:42.597 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.660 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.723 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.785 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.848 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.909 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:42.973 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.033 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.097 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.158 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.221 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.282 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.345 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.406 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.467 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.528 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.590 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.652 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.715 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.776 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.838 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.900 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.962 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:43.970 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:43.985 [main] BillingDetails - Wait Till Enters Street Name
+[INFO ] 2021-06-24 19:54:44.005 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_address_1]
+[INFO ] 2021-06-24 19:54:44.018 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_address_1]
+[INFO ] 2021-06-24 19:54:44.096 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_address_1]
+[DEBUG] 2021-06-24 19:54:44.359 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:44.359 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:44.373 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:44.388 [main] BillingDetails - Wait Till Enters Suite Name
+[INFO ] 2021-06-24 19:54:44.408 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_address_2]
+[INFO ] 2021-06-24 19:54:44.422 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_address_2]
+[INFO ] 2021-06-24 19:54:44.502 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_address_2]
+[DEBUG] 2021-06-24 19:54:44.795 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:44.795 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:44.805 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:44.823 [main] BillingDetails - Wait Till Enters City Name
+[INFO ] 2021-06-24 19:54:44.853 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_city]
+[INFO ] 2021-06-24 19:54:44.873 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_city]
+[INFO ] 2021-06-24 19:54:44.985 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_city]
+[DEBUG] 2021-06-24 19:54:45.257 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:45.257 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:45.266 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:45.281 [main] BillingDetails - Wait Till Enters State Name
+[INFO ] 2021-06-24 19:54:45.303 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_state]
+[INFO ] 2021-06-24 19:54:45.315 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_state]
+[DEBUG] 2021-06-24 19:54:45.507 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:45.508 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:45.516 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:45.531 [main] BillingDetails - Wait Till Enters Postcode
+[INFO ] 2021-06-24 19:54:45.557 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_postcode]
+[INFO ] 2021-06-24 19:54:45.564 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_postcode]
+[INFO ] 2021-06-24 19:54:45.641 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_postcode]
+[DEBUG] 2021-06-24 19:54:45.861 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:45.862 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:45.874 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:45.888 [main] BillingDetails - Wait Till Enters Phone Number
+[INFO ] 2021-06-24 19:54:45.908 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_phone]
+[INFO ] 2021-06-24 19:54:45.921 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_phone]
+[INFO ] 2021-06-24 19:54:45.998 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_phone]
+[DEBUG] 2021-06-24 19:54:46.262 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:46.262 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.331 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.396 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.469 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.532 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.594 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.658 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.719 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.781 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.843 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.905 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:46.966 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.028 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.089 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.152 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.213 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.275 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.405 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.475 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.539 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.550 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:47.562 [main] BillingDetails - Wait Till Enters Email
+[INFO ] 2021-06-24 19:54:47.583 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_email]
+[INFO ] 2021-06-24 19:54:47.595 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_email]
+[INFO ] 2021-06-24 19:54:47.672 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: billing_email]
+[DEBUG] 2021-06-24 19:54:47.913 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:47.913 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:47.919 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:47.937 [main] ShippingDetails - Wait Till Enters First Name
+[INFO ] 2021-06-24 19:54:47.955 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_first_name]
+[INFO ] 2021-06-24 19:54:47.967 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_first_name]
+[INFO ] 2021-06-24 19:54:48.046 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_first_name]
+[DEBUG] 2021-06-24 19:54:48.299 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:48.299 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:48.306 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:48.324 [main] ShippingDetails - Wait Till Enters Last Name
+[INFO ] 2021-06-24 19:54:48.342 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_last_name]
+[INFO ] 2021-06-24 19:54:48.354 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_last_name]
+[INFO ] 2021-06-24 19:54:48.431 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_last_name]
+[DEBUG] 2021-06-24 19:54:48.668 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:48.668 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:48.678 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:48.692 [main] ShippingDetails - Wait Till Selects India
+[INFO ] 2021-06-24 19:54:48.718 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_country]
+[INFO ] 2021-06-24 19:54:48.725 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_country]
+[DEBUG] 2021-06-24 19:54:48.933 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:48.933 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:48.997 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.058 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.122 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.183 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.243 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.309 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.368 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.432 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.493 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.555 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.616 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.680 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.741 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.803 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.865 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.927 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:49.991 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.051 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.114 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.175 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.239 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.301 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.363 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.427 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.486 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.549 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.610 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.671 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.732 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.792 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.855 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.916 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:50.979 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.042 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.106 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.167 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.228 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.289 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.352 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.414 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.421 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:51.436 [main] ShippingDetails - Wait Till Enters Street Name
+[INFO ] 2021-06-24 19:54:51.456 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_address_1]
+[INFO ] 2021-06-24 19:54:51.469 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_address_1]
+[INFO ] 2021-06-24 19:54:51.546 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_address_1]
+[DEBUG] 2021-06-24 19:54:51.831 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:51.831 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:51.839 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:51.855 [main] ShippingDetails - Wait Till Enters Suite Name
+[INFO ] 2021-06-24 19:54:51.876 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_address_2]
+[INFO ] 2021-06-24 19:54:51.892 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_address_2]
+[INFO ] 2021-06-24 19:54:51.965 [main] ExplicitWait - Waiting for element to be clickable: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_address_2]
+[DEBUG] 2021-06-24 19:54:52.223 [main] ExplicitWait - Waiting for the document to load
+[INFO ] 2021-06-24 19:54:52.224 [main] JavaScriptHelper - return jQuery.active
+[INFO ] 2021-06-24 19:54:52.240 [main] JavaScriptHelper - return document.readyState
+[INFO ] 2021-06-24 19:54:52.255 [main] ShippingDetails - Wait Till Enters City Name
+[INFO ] 2021-06-24 19:54:52.284 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_city]
+[INFO ] 2021-06-24 19:54:52.304 [main] ExplicitWait - Waiting for element to be visible: [[ChromeDriver: chrome on WINDOWS (88d936317b2ca65ea9d66b817af748ae)] -> id: shipping_city]
+[INFO ] 2021-06-24 19:54:52.382 [main] ExplicitWait - Waiting for element 

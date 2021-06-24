@@ -1,5 +1,7 @@
 package commons;
 
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Properties;
@@ -16,24 +18,29 @@ import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 
 public class TestBase {
 
 	public WebDriver driver;
 	public static Properties property;
 
+	@BeforeSuite
+	public void screenRecording() throws Exception {
+		MyScreenRecorder.startRecording("screenRecording");
+	}
+	
 	@BeforeClass
-	public void setUp() throws Exception {
+	public void setUp() throws FileNotFoundException, IOException {
 		this.driver = createDriver();
 		setUpWebDriver(driver);
 		InitializePropertyFile.loadPropertyFile();
-		MyScreenRecorder.startRecording("setUp");
 	}
 
 	@AfterClass
-	public void tearDown() throws Exception {
-		MyScreenRecorder.stopRecording();
+	public void tearDown() {
 		try {
 			if (driver != null) {
 				driver.quit();
@@ -42,6 +49,10 @@ public class TestBase {
 			System.out.println(e.getMessage());
 		}
 		
+	}
+	@AfterSuite
+	public void stopRecording() throws Exception {
+		MyScreenRecorder.stopRecording();
 	}
 
 	private WebDriver createDriver() {
