@@ -24,8 +24,8 @@ mvn test -DconfigPath=./env/config.properties -Dwebdriver.chrome.driver=./driver
 
 ## Reports
 
-•Checkout the test results after execution of tests from the following reports.<br />
-•Following are the reports with their location in the project directory.<br />
-		1.TestSuite.txt  (/target/surefire-reports/TestSuite.txt)<br />
-		2.Extent.html	 (/target/surefire-reports/Extent.html)<br />
-		3.index.html	 (/target/surefire-reports/index.html)<br />
+- Checkout the test results after execution of tests from the following reports.<br />
+- Following are the reports with their location in the project directory.<br />
+		- TestSuite.txt  (/target/surefire-reports/TestSuite.txt)<br />
+		- Extent.html	 (/target/surefire-reports/Extent.html)<br />
+		- index.html	 (/target/surefire-reports/index.html)<br />
