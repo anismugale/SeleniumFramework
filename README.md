@@ -1,6 +1,6 @@
 # QA Automation
 
-This repository contains QA automation for the AppSierra. It uses Selenium, via a local Chrome Driver or 
+This repository contains QA automation for Web. It uses Selenium, via a local Chrome Driver or 
 a Remote Driver that connects to a Selenium Grid.
 
 ## Running Java and Maven on host
